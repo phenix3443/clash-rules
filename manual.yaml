@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN,asia-east1-docker.pkg.dev
+  - DOMAIN,taiko.mirror.xyz
+  - DOMAIN-SUFFIX,blockscout.com
+  - DOMAIN-SUFFIX,23img.com
+  - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,21img.com
+  - DOMAIN-SUFFIX,v2board.com
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,rambus.com
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,medium.com
