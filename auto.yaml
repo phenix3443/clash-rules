@@ -1,16 +1,28 @@
 payload:
-  - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN,asia-east1-docker.pkg.dev
+  - DOMAIN-SUFFIX,21img.com
+  - DOMAIN-SUFFIX,23img.com
+  - DOMAIN-SUFFIX,blockchainjobz.com
+  - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,celer.network
+  - DOMAIN-SUFFIX,chatpdf.com
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,crypto.jobs
+  - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,defidaonews.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,globo.tech
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,datawallet.com
-  - DOMAIN-SUFFIX,blockchainjobz.com
-  - DOMAIN-SUFFIX,crypto.jobs
-  - DOMAIN-SUFFIX,zecrey.com
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,quantstamp.com
+  - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,santalabackdrops.com
-  - DOMAIN-SUFFIX,chatpdf.com
-  - DOMAIN-SUFFIX,celer.network
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,v2board.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,zecrey.com
