@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN,asia-east1-docker.pkg.dev
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
+  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bnbstatic.com
@@ -18,11 +18,13 @@ payload:
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,quantstamp.com
+  - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,zecrey.com
