@@ -1,3 +1,3 @@
 payload:
   - DOMAIN,asia-east1-docker.pkg.dev
-  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,mirror.xyz
