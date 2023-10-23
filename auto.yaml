@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,0xparc.org
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
+  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bnbstatic.com
