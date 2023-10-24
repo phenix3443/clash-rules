@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,0xparc.org
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
+  - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blockscout.com
@@ -22,10 +23,12 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,quantstamp.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,zecrey.com
