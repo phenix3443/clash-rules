@@ -32,5 +32,6 @@ payload:
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,zecrey.com
+  - DOMAIN-SUFFIX,imgtures.com
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
