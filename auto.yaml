@@ -19,19 +19,21 @@ payload:
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
+  - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
+  - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,quantstamp.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,zecrey.com
-  - DOMAIN-SUFFIX,imgtures.com
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
