@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
+  - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,nsatu.com
@@ -34,6 +35,8 @@ payload:
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
