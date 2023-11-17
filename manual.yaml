@@ -2,4 +2,5 @@ payload:
   - DOMAIN,asia-east1-docker.pkg.dev
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,bnbstatic.com
   - PROCESS-NAME,code
