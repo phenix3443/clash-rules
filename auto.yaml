@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,0xparc.org
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
