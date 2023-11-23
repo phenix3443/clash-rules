@@ -2,6 +2,7 @@ payload:
   - DOMAIN,asia-east1-docker.pkg.dev
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN-SUFFIX,weex.com
