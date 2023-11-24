@@ -2,10 +2,11 @@ payload:
   - DOMAIN-SUFFIX,0xparc.org
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,1point3acres.com
+  - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
-  - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,99img.cc
+  - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blockscout.com
