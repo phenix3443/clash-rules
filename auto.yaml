@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sentry.com
+  - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
