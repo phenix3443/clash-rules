@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,chatpdf.com
+  - DOMAIN-SUFFIX,tokeninsight.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coindesk.com
