@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blockchainjobz.com
-  - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,celer.network
@@ -17,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
@@ -32,7 +32,7 @@ payload:
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-SUFFIX,usefathom.com
+  - DOMAIN-SUFFIX,mlsend.com
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,quantstamp.com
@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,thumbsnap.com
+  - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,visualstudio.com
