@@ -3,14 +3,12 @@ payload:
   - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
-  - DOMAIN-SUFFIX,66img.cc
-  - DOMAIN-SUFFIX,99img.cc
+  - DOMAIN-SUFFIX,266img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
-  - DOMAIN-SUFFIX,amplitude.com
-  - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,buysellads.net
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,cloudflare.com
@@ -28,26 +26,18 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,huoxing24.com
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,medium.com
-  - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-SUFFIX,mlsend.com
   - DOMAIN-SUFFIX,nsatu.com
-  - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,quantstamp.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sentry.com
-  - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,thumbsnap.com
-  - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
-  - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,walletconnect.com
-  - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
