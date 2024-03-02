@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
