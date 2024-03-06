@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,defidaonews.com
+  - DOMAIN-SUFFIX,dev-mintscan.com
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,gitbook.com
@@ -31,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,optimizely.com
