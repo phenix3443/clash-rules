@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,bj125.com
+  - DOMAIN-SUFFIX,argent.xyz
+  - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
@@ -18,10 +20,14 @@ payload:
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
+  - DOMAIN-SUFFIX,cryptocompare.com
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,dev-mintscan.com
+  - DOMAIN-SUFFIX,dynamicauth.com
+  - DOMAIN-SUFFIX,enjoy.tech
+  - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,gitbook.com
@@ -37,13 +43,19 @@ payload:
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,nsatu.com
+  - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,quantstamp.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
@@ -51,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
+  - DOMAIN-SUFFIX,vrismic.io
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
