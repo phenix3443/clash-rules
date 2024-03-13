@@ -64,7 +64,9 @@ payload:
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,vrismic.io
+  - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,web3work.co
+  - DOMAIN-SUFFIX,dapplearning.org
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
