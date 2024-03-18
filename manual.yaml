@@ -7,4 +7,6 @@ payload:
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN-SUFFIX,tokeninsight.com
   - DOMAIN-SUFFIX,weex.com
+  - DOMAIN-SUFFIX,dapplearning.org
+  - DOMAIN-SUFFIX,optimism.io
   - PROCESS-NAME,code
