@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,cosmos.network
