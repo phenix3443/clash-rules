@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
+  - DOMAIN-SUFFIX,near.org
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
