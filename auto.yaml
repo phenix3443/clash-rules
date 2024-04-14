@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,dynamicauth.com
   - DOMAIN-SUFFIX,enjoy.tech
   - DOMAIN-SUFFIX,fluence.network
+  - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
