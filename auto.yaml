@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,enjoy.tech
   - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,linktr.ee
+  - DOMAIN-SUFFIX,grpc.io
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
