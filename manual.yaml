@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,tokeninsight.com
   - DOMAIN-SUFFIX,weex.com
   - DOMAIN-SUFFIX,dapplearning.org
+  - DOMAIN-SUFFIX,phind.com
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,gate.io
   - PROCESS-NAME,code
