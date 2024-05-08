@@ -8,11 +8,12 @@ payload:
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,apphb.com
   - DOMAIN-SUFFIX,argent.xyz
   - DOMAIN-SUFFIX,bj125.com
-  - DOMAIN-SUFFIX,blocknative.com
   - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blockchainjobz.com
+  - DOMAIN-SUFFIX,blocknative.com
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,celer.network
@@ -54,11 +55,13 @@ payload:
   - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,quantstamp.com
   - DOMAIN-SUFFIX,rambus.com
+  - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tagss.pro
@@ -68,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
+  - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,warp.dev
