@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
+  - DOMAIN-SUFFIX,dexscreener.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,webassembly.org
