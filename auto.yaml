@@ -49,11 +49,14 @@ payload:
   - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,defillama.com
+  - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,near.org
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,nsatu.com
+  - DOMAIN-SUFFIX,openfpcdn.io
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,quantstamp.com
@@ -71,7 +74,6 @@ payload:
   - DOMAIN-SUFFIX,taiko.xyz
   - DOMAIN-SUFFIX,tg.bet
   - DOMAIN-SUFFIX,thumbsnap.com
-  - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
