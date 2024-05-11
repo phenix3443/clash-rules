@@ -70,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
+  - DOMAIN-SUFFIX,tg.bet
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
   - DOMAIN-SUFFIX,vsassets.io
