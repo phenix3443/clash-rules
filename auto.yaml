@@ -6,10 +6,12 @@ payload:
   - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,99img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
+  - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,apphb.com
   - DOMAIN-SUFFIX,argent.xyz
+  - DOMAIN-SUFFIX,arkhamintelligence.com
   - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blockchainjobz.com
@@ -29,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,dev-mintscan.com
+  - DOMAIN-SUFFIX,dexscreener.com
   - DOMAIN-SUFFIX,dynamicauth.com
   - DOMAIN-SUFFIX,enjoy.tech
   - DOMAIN-SUFFIX,fluence.network
@@ -66,18 +69,16 @@ payload:
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,taiko.xyz
+  - DOMAIN-SUFFIX,tg.bet
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
-  - DOMAIN-SUFFIX,tg.bet
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
-  - DOMAIN-SUFFIX,arkhamintelligence.com
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
-  - DOMAIN-SUFFIX,dexscreener.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,webassembly.org
