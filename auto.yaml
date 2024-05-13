@@ -76,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
+  - DOMAIN-SUFFIX,zerion.io
   - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
