@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,openfpcdn.io
+  - DOMAIN-SUFFIX,lisk.com
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,quantstamp.com
@@ -64,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,santalabackdrops.com
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,sentry.io
