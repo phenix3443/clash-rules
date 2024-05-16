@@ -65,6 +65,26 @@ payload:
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,santalabackdrops.com
+  - DOMAIN-SUFFIX,arbitrum.io
+  - DOMAIN-SUFFIX,immutable.com
+  - DOMAIN-SUFFIX,linea.build
+  - DOMAIN-SUFFIX,onbeam.com
+  - DOMAIN-SUFFIX,cloudflare-eth.com
+  - DOMAIN-SUFFIX,mantle.xyz
+  - DOMAIN-SUFFIX,aurora.dev
+  - DOMAIN-SUFFIX,base.org
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,pancakeswap.finance
+  - DOMAIN-SUFFIX,humanode.io
+  - DOMAIN-SUFFIX,polygon-rpc.com
+  - DOMAIN-SUFFIX,ankr.com
+  - DOMAIN-SUFFIX,blastapi.io
+  - DOMAIN-SUFFIX,blockpi.network
+  - DOMAIN-SUFFIX,roninchain.com
+  - DOMAIN-SUFFIX,aethir.com
+  - DOMAIN-SUFFIX,manta.network
+  - DOMAIN-SUFFIX,layer3.xyz
+  - DOMAIN-SUFFIX,particle.network
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,sendvid.com
