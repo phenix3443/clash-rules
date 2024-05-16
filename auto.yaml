@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,quantstamp.com
+  - DOMAIN-SUFFIX,airdropalert.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,santalabackdrops.com
