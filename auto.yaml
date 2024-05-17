@@ -6,21 +6,30 @@ payload:
   - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,99img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
+  - DOMAIN-SUFFIX,aethir.com
   - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,airdropalert.com
   - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,ankr.com
   - DOMAIN-SUFFIX,apphb.com
+  - DOMAIN-SUFFIX,arbitrum.io
   - DOMAIN-SUFFIX,argent.xyz
   - DOMAIN-SUFFIX,arkhamintelligence.com
+  - DOMAIN-SUFFIX,aurora.dev
+  - DOMAIN-SUFFIX,base.org
   - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blast.io
+  - DOMAIN-SUFFIX,blastapi.io
   - DOMAIN-SUFFIX,blockchainjobz.com
   - DOMAIN-SUFFIX,blocknative.com
+  - DOMAIN-SUFFIX,blockpi.network
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,chatpdf.com
+  - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coindesk.com
@@ -30,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,defidaonews.com
+  - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,dev-mintscan.com
   - DOMAIN-SUFFIX,dexscreener.com
   - DOMAIN-SUFFIX,dynamicauth.com
@@ -37,56 +47,47 @@ payload:
   - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
+  - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
+  - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,grpc.io
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,humanode.io
   - DOMAIN-SUFFIX,imgtures.com
+  - DOMAIN-SUFFIX,immutable.com
+  - DOMAIN-SUFFIX,layer3.xyz
+  - DOMAIN-SUFFIX,linea.build
   - DOMAIN-SUFFIX,linktr.ee
+  - DOMAIN-SUFFIX,lisk.com
+  - DOMAIN-SUFFIX,manta.network
+  - DOMAIN-SUFFIX,mantle.xyz
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,metamask.io
-  - DOMAIN-SUFFIX,defillama.com
-  - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,mitrade.com
   - DOMAIN-SUFFIX,near.org
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,nsatu.com
+  - DOMAIN-SUFFIX,onbeam.com
   - DOMAIN-SUFFIX,openfpcdn.io
-  - DOMAIN-SUFFIX,lisk.com
   - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,pancakeswap.finance
+  - DOMAIN-SUFFIX,particle.network
+  - DOMAIN-SUFFIX,polygon-rpc.com
   - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,quantstamp.com
-  - DOMAIN-SUFFIX,airdropalert.com
   - DOMAIN-SUFFIX,rambus.com
+  - DOMAIN-SUFFIX,roninchain.com
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,santalabackdrops.com
-  - DOMAIN-SUFFIX,arbitrum.io
-  - DOMAIN-SUFFIX,immutable.com
-  - DOMAIN-SUFFIX,linea.build
-  - DOMAIN-SUFFIX,onbeam.com
-  - DOMAIN-SUFFIX,cloudflare-eth.com
-  - DOMAIN-SUFFIX,mantle.xyz
-  - DOMAIN-SUFFIX,aurora.dev
-  - DOMAIN-SUFFIX,base.org
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,pancakeswap.finance
-  - DOMAIN-SUFFIX,humanode.io
-  - DOMAIN-SUFFIX,polygon-rpc.com
-  - DOMAIN-SUFFIX,ankr.com
-  - DOMAIN-SUFFIX,blastapi.io
-  - DOMAIN-SUFFIX,blockpi.network
-  - DOMAIN-SUFFIX,roninchain.com
-  - DOMAIN-SUFFIX,aethir.com
-  - DOMAIN-SUFFIX,manta.network
-  - DOMAIN-SUFFIX,layer3.xyz
-  - DOMAIN-SUFFIX,particle.network
   - DOMAIN-SUFFIX,segment.com
-  - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,sentry.io
@@ -99,7 +100,6 @@ payload:
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
-  - DOMAIN-SUFFIX,zerion.io
   - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
@@ -112,5 +112,6 @@ payload:
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
+  - DOMAIN-SUFFIX,zerion.io
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
