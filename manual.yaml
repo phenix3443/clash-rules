@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN-SUFFIX,tokeninsight.com

@@ -52,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
-  - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,grpc.io
