@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,ethermail.io
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,bitget.fit
