@@ -54,6 +54,8 @@ payload:
   - DOMAIN-SUFFIX,ethermail.io
   - DOMAIN-SUFFIX,subwallet.app
   - DOMAIN-SUFFIX,avail.tools
+  - DOMAIN-SUFFIX,dextools.io
+  - DOMAIN-SUFFIX,hercules.exchange
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,bitget.fit
