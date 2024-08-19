@@ -57,6 +57,8 @@ payload:
   - DOMAIN-SUFFIX,subwallet.app
   - DOMAIN-SUFFIX,avail.tools
   - DOMAIN-SUFFIX,dextools.io
+  - DOMAIN-SUFFIX,greenfieldscan.com
+  - DOMAIN-SUFFIX,nodereal.io
   - DOMAIN-SUFFIX,hercules.exchange
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
