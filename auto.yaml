@@ -1,15 +1,15 @@
 payload:
   - DOMAIN-SUFFIX,0xparc.org
+  - DOMAIN-SUFFIX,0xscope.com
   - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-SUFFIX,21img.com
   - DOMAIN-SUFFIX,23img.com
   - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,99img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
+  - DOMAIN-SUFFIX,acg.lol
   - DOMAIN-SUFFIX,aethir.com
   - DOMAIN-SUFFIX,aicoin.com
-  - DOMAIN-SUFFIX,lain.la
-  - DOMAIN-SUFFIX,acg.lol
   - DOMAIN-SUFFIX,airdropalert.com
   - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,amplitude.com
@@ -19,7 +19,9 @@ payload:
   - DOMAIN-SUFFIX,argent.xyz
   - DOMAIN-SUFFIX,arkhamintelligence.com
   - DOMAIN-SUFFIX,aurora.dev
+  - DOMAIN-SUFFIX,avail.tools
   - DOMAIN-SUFFIX,base.org
+  - DOMAIN-SUFFIX,bitget.fit
   - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blastapi.io
@@ -38,39 +40,39 @@ payload:
   - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
   - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,cryptomood.com
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,dev-mintscan.com
   - DOMAIN-SUFFIX,dexscreener.com
+  - DOMAIN-SUFFIX,dextools.io
   - DOMAIN-SUFFIX,dynamicauth.com
   - DOMAIN-SUFFIX,enjoy.tech
+  - DOMAIN-SUFFIX,ethermail.io
   - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,fly.dev
+  - DOMAIN-SUFFIX,loogooff.com
+  - DOMAIN-SUFFIX,metis.io
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,wtf.academy
-  - DOMAIN-SUFFIX,ethermail.io
-  - DOMAIN-SUFFIX,subwallet.app
-  - DOMAIN-SUFFIX,avail.tools
-  - DOMAIN-SUFFIX,dextools.io
-  - DOMAIN-SUFFIX,greenfieldscan.com
-  - DOMAIN-SUFFIX,nodereal.io
-  - DOMAIN-SUFFIX,hercules.exchange
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
-  - DOMAIN-SUFFIX,bitget.fit
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,greenfieldscan.com
   - DOMAIN-SUFFIX,grpc.io
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,hasura.io
+  - DOMAIN-SUFFIX,hercules.exchange
   - DOMAIN-SUFFIX,humanode.io
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,immutable.com
+  - DOMAIN-SUFFIX,lain.la
   - DOMAIN-SUFFIX,layer3.xyz
   - DOMAIN-SUFFIX,linea.build
   - DOMAIN-SUFFIX,linktr.ee
@@ -82,9 +84,8 @@ payload:
   - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mitrade.com
-  - DOMAIN-SUFFIX,cryptomood.com
-  - DOMAIN-SUFFIX,0xscope.com
   - DOMAIN-SUFFIX,near.org
+  - DOMAIN-SUFFIX,nodereal.io
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,onbeam.com
@@ -105,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,subwallet.app
   - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,taiko.xyz
   - DOMAIN-SUFFIX,tg.bet
@@ -120,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,webassembly.org
+  - DOMAIN-SUFFIX,wtf.academy
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
