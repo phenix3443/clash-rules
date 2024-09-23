@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
   - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cryptomood.com
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
