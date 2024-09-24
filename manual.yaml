@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,ave.ai
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,dexx.ai
+  - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,aviewebnue.com
   - DOMAIN-SUFFIX,aveipcheck.xyz
   - DOMAIN-SUFFIX,pionex.com
