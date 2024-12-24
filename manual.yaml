@@ -1,28 +1,28 @@
 payload:
-  - DOMAIN,asia-east1-docker.pkg.dev
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,gate.io
-  - DOMAIN-SUFFIX,gmgn.ai
-  - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,ave.ai
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,dexx.ai
-  - DOMAIN-SUFFIX,nobepay.com
-  - DOMAIN-SUFFIX,cf-ipfs.com
-  - DOMAIN-SUFFIX,reclaimprotocol.org
-  - DOMAIN-SUFFIX,aviewebnue.com
   - DOMAIN-SUFFIX,aveipcheck.xyz
-  - DOMAIN-SUFFIX,pionex.com
-  - DOMAIN-SUFFIX,t66y.com
-  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,aviewebnue.com
+  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bitget.fit
   - DOMAIN-SUFFIX,bitget.live
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,cf-ipfs.com
+  - DOMAIN-SUFFIX,coinank.com
+  - DOMAIN-SUFFIX,dapplearning.org
+  - DOMAIN-SUFFIX,dexx.ai
+  - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gmgn.ai
+  - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,nobepay.com
+  - DOMAIN-SUFFIX,optimism.io
+  - DOMAIN-SUFFIX,phind.com
+  - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN-SUFFIX,reclaimprotocol.org
+  - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tokeninsight.com
   - DOMAIN-SUFFIX,weex.com
-  - DOMAIN-SUFFIX,dapplearning.org
-  - DOMAIN-SUFFIX,phind.com
-  - DOMAIN-SUFFIX,optimism.io
-  - DOMAIN-SUFFIX,gate.io
   - PROCESS-NAME,chatgpt

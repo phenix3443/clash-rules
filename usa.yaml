@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,sentry.io

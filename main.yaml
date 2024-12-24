@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,acg.lol
   - DOMAIN-SUFFIX,aethir.com
-  - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,airdropalert.com
   - DOMAIN-SUFFIX,alt-layer.dev
@@ -34,13 +33,13 @@ payload:
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,cloudflare-eth.com
+  - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
   - DOMAIN-SUFFIX,cryptocompare.com
-  - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cryptomood.com
   - DOMAIN-SUFFIX,datawallet.com
   - DOMAIN-SUFFIX,deepl.com
@@ -54,8 +53,6 @@ payload:
   - DOMAIN-SUFFIX,ethermail.io
   - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,fly.dev
-  - DOMAIN-SUFFIX,loogooff.com
-  - DOMAIN-SUFFIX,metis.io
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gitbook.com
@@ -76,10 +73,13 @@ payload:
   - DOMAIN-SUFFIX,linea.build
   - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,lisk.com
+  - DOMAIN-SUFFIX,loogooff.com
   - DOMAIN-SUFFIX,manta.network
   - DOMAIN-SUFFIX,mantle.xyz
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,metis.io
+  - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mitrade.com
