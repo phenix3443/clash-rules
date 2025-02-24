@@ -117,6 +117,7 @@ payload:
   - DOMAIN-SUFFIX,vrismic.io
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,rootdata.com
+  - DOMAIN-SUFFIX,arweave.net
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,warp.dev
