@@ -116,8 +116,11 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
   - DOMAIN-SUFFIX,vsassets.io
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,finet.hk
   - DOMAIN-SUFFIX,rootdata.com
   - DOMAIN-SUFFIX,arweave.net
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,warp.dev
