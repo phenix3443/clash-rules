@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,23img.com
   - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,99img.cc
+  - DOMAIN-SUFFIX,goreleaser.com
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,acg.lol
   - DOMAIN-SUFFIX,aethir.com
