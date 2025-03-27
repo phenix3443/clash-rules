@@ -121,9 +121,12 @@ payload:
   - DOMAIN-SUFFIX,finet.hk
   - DOMAIN-SUFFIX,rootdata.com
   - DOMAIN-SUFFIX,arweave.net
+  - DOMAIN-SUFFIX,coinpaprika.com
   - DOMAIN-SUFFIX,DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,jup.ag
   - DOMAIN-SUFFIX,virtuals.io
+  - DOMAIN-SUFFIX,solscan.io
+  - DOMAIN-SUFFIX,kiloex.io
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
