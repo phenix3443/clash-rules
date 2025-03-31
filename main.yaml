@@ -139,5 +139,6 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
+  - DOMAIN-SUFFIX,mailbox.fm
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
