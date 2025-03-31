@@ -121,6 +121,7 @@ payload:
   - DOMAIN-SUFFIX,finet.hk
   - DOMAIN-SUFFIX,rootdata.com
   - DOMAIN-SUFFIX,arweave.net
+  - DOMAIN-SUFFIX,dextrabot.com
   - DOMAIN-SUFFIX,coinpaprika.com
   - DOMAIN-SUFFIX,DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,jup.ag
