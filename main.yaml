@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
+  - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,webassembly.org
