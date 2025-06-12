@@ -134,6 +134,8 @@ payload:
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,web3work.co
+  - DOMAIN-SUFFIX,hyperliquid-testnet.xyz
+  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,wtf.academy
   - DOMAIN-SUFFIX,trunk.io
