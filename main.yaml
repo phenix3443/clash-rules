@@ -129,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,kiloex.io
   - DOMAIN-SUFFIX,clarity.ms
+  - DOMAIN-SUFFIX,golangci-lint.run
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,larksuite.com
