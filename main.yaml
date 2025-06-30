@@ -139,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,wtf.academy
   - DOMAIN-SUFFIX,trunk.io
+  - DOMAIN-SUFFIX,schemastore.org
   - DOMAIN-SUFFIX,pump.fun
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
