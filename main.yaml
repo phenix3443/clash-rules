@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,23img.com
   - DOMAIN-SUFFIX,66img.cc
   - DOMAIN-SUFFIX,99img.cc
-  - DOMAIN-SUFFIX,goreleaser.com
+  - DOMAIN-SUFFIX,DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,acg.lol
   - DOMAIN-SUFFIX,aethir.com
@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,arbitrum.io
   - DOMAIN-SUFFIX,argent.xyz
   - DOMAIN-SUFFIX,arkhamintelligence.com
+  - DOMAIN-SUFFIX,arweave.net
   - DOMAIN-SUFFIX,aurora.dev
   - DOMAIN-SUFFIX,avail.tools
   - DOMAIN-SUFFIX,base.org
@@ -30,14 +31,17 @@ payload:
   - DOMAIN-SUFFIX,blockpi.network
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-SUFFIX,chatpdf.com
+  - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,coinpaprika.com
   - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
   - DOMAIN-SUFFIX,cryptocompare.com
@@ -49,17 +53,21 @@ payload:
   - DOMAIN-SUFFIX,dev-mintscan.com
   - DOMAIN-SUFFIX,dexscreener.com
   - DOMAIN-SUFFIX,dextools.io
+  - DOMAIN-SUFFIX,dextrabot.com
   - DOMAIN-SUFFIX,dynamicauth.com
   - DOMAIN-SUFFIX,enjoy.tech
   - DOMAIN-SUFFIX,ethermail.io
+  - DOMAIN-SUFFIX,finet.hk
   - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,fly.dev
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,globo.tech
+  - DOMAIN-SUFFIX,golangci-lint.run
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,goreleaser.com
   - DOMAIN-SUFFIX,greenfieldscan.com
   - DOMAIN-SUFFIX,grpc.io
   - DOMAIN-SUFFIX,gstatic.com
@@ -67,14 +75,20 @@ payload:
   - DOMAIN-SUFFIX,hasura.io
   - DOMAIN-SUFFIX,hercules.exchange
   - DOMAIN-SUFFIX,humanode.io
+  - DOMAIN-SUFFIX,hyperliquid-testnet.xyz
+  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,immutable.com
+  - DOMAIN-SUFFIX,jup.ag
+  - DOMAIN-SUFFIX,kiloex.io
   - DOMAIN-SUFFIX,lain.la
+  - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,layer3.xyz
   - DOMAIN-SUFFIX,linea.build
   - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,lisk.com
   - DOMAIN-SUFFIX,loogooff.com
+  - DOMAIN-SUFFIX,mailbox.fm
   - DOMAIN-SUFFIX,manta.network
   - DOMAIN-SUFFIX,mantle.xyz
   - DOMAIN-SUFFIX,medium.com
@@ -94,58 +108,45 @@ payload:
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,particle.network
   - DOMAIN-SUFFIX,polygon-rpc.com
+  - DOMAIN-SUFFIX,prettier.io
   - DOMAIN-SUFFIX,prismic.io
+  - DOMAIN-SUFFIX,pump.fun
   - DOMAIN-SUFFIX,quantstamp.com
   - DOMAIN-SUFFIX,rambus.com
   - DOMAIN-SUFFIX,roninchain.com
+  - DOMAIN-SUFFIX,rootdata.com
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,santalabackdrops.com
+  - DOMAIN-SUFFIX,schemastore.org
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,subwallet.app
   - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,taiko.xyz
   - DOMAIN-SUFFIX,tg.bet
   - DOMAIN-SUFFIX,thumbsnap.com
+  - DOMAIN-SUFFIX,trunk.io
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
+  - DOMAIN-SUFFIX,virtuals.io
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vrismic.io
   - DOMAIN-SUFFIX,vsassets.io
-  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
-  - DOMAIN-SUFFIX,finet.hk
-  - DOMAIN-SUFFIX,rootdata.com
-  - DOMAIN-SUFFIX,arweave.net
-  - DOMAIN-SUFFIX,dextrabot.com
-  - DOMAIN-SUFFIX,coinpaprika.com
-  - DOMAIN-SUFFIX,DOMAIN-SUFFIX,mixpanel.com
-  - DOMAIN-SUFFIX,jup.ag
-  - DOMAIN-SUFFIX,virtuals.io
-  - DOMAIN-SUFFIX,solscan.io
-  - DOMAIN-SUFFIX,kiloex.io
-  - DOMAIN-SUFFIX,clarity.ms
-  - DOMAIN-SUFFIX,golangci-lint.run
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
-  - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,web3work.co
-  - DOMAIN-SUFFIX,hyperliquid-testnet.xyz
-  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,wtf.academy
-  - DOMAIN-SUFFIX,trunk.io
-  - DOMAIN-SUFFIX,schemastore.org
-  - DOMAIN-SUFFIX,pump.fun
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
-  - DOMAIN-SUFFIX,mailbox.fm
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
