@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,golangci-lint.run
+  - DOMAIN-SUFFIX,arbiscan.io
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,goreleaser.com
