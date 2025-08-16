@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,discord
+  - PROCESS-NAME,telegram
+  - PROCESS-NAME,chatgpt
+  - PROCESS-NAME,cursor
