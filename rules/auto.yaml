@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,ave.ai
   - DOMAIN-SUFFIX,aveipcheck.xyz
   - DOMAIN-SUFFIX,aviewebnue.com
+  - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,base.org
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bitget.fit
@@ -80,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,gmgn.ai
@@ -105,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,layer3.xyz
   - DOMAIN-SUFFIX,linea.build
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,lisk.com
   - DOMAIN-SUFFIX,loogooff.com
@@ -125,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,onbeam.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openfpcdn.io
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,optimizely.com
@@ -147,6 +151,7 @@ payload:
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,solscan.io
@@ -177,7 +182,5 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
-  - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,linkedin.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,sentry.io
+  - PROCESS-NAME,discord
+  - PROCESS-NAME,telegram
