@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,99img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,acg.lol
+  - DOMAIN-SUFFIX,actions.githubusercontent.com
   - DOMAIN-SUFFIX,aethir.com
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,airdropalert.com
@@ -78,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,git
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,github.com
