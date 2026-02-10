@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,99img.cc
   - DOMAIN-SUFFIX,aaaimgs.com
   - DOMAIN-SUFFIX,acg.lol
-  - DOMAIN-SUFFIX,actions.githubusercontent.com
   - DOMAIN-SUFFIX,aethir.com
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,airdropalert.com
@@ -48,7 +47,6 @@ payload:
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,cloudflare-eth.com
-  - DOMAIN-SUFFIX,cloudflare-eth.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,coinank.com
@@ -68,7 +66,6 @@ payload:
   - DOMAIN-SUFFIX,dextools.io
   - DOMAIN-SUFFIX,dextrabot.com
   - DOMAIN-SUFFIX,dexx.ai
-  - DOMAIN-SUFFIX,DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,dynamicauth.com
   - DOMAIN-SUFFIX,enjoy.tech
   - DOMAIN-SUFFIX,ethermail.io
@@ -78,13 +75,8 @@ payload:
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gate.io
-  - DOMAIN-SUFFIX,gate.io
-  - DOMAIN-SUFFIX,git
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,globo.tech
   - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,golangci-lint.run
@@ -93,7 +85,6 @@ payload:
   - DOMAIN-SUFFIX,goreleaser.com
   - DOMAIN-SUFFIX,greenfieldscan.com
   - DOMAIN-SUFFIX,grpc.io
-  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hasura.io
   - DOMAIN-SUFFIX,hercules.exchange
@@ -122,22 +113,20 @@ payload:
   - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mitrade.com
+  - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,near.org
   - DOMAIN-SUFFIX,nobepay.com
   - DOMAIN-SUFFIX,nodereal.io
   - DOMAIN-SUFFIX,nsatu.com
-  - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,onbeam.com
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openfpcdn.io
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,pancakeswap.finance
-  - DOMAIN-SUFFIX,particle.network
-  - DOMAIN-SUFFIX,panghuli.tech
   - DOMAIN-SUFFIX,panghuli.cn
+  - DOMAIN-SUFFIX,panghuli.tech
+  - DOMAIN-SUFFIX,particle.network
   - DOMAIN-SUFFIX,phind.com
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN-SUFFIX,polygon-rpc.com
@@ -155,7 +144,6 @@ payload:
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,sentry.com
-  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,solscan.io
