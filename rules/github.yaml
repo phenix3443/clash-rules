@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,actions.githubusercontent.com
+  - DOMAIN-SUFFIX,media.githubusercontent.com
+  - DOMAIN-SUFFIX,codeload.github.com
+  - DOMAIN-SUFFIX,objects.githubusercontent.com
+  - DOMAIN-SUFFIX,copilot.github.com
+  - DOMAIN-SUFFIX,gist.github.com
+  - DOMAIN-SUFFIX,api.github.com
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,avatars.githubusercontent.com
+  - DOMAIN-SUFFIX,central.github.com
+  - DOMAIN-SUFFIX,collector.github.com
+  - DOMAIN-SUFFIX,desktop.githubusercontent.com
+  - DOMAIN-SUFFIX,education.github.com
+  - DOMAIN-SUFFIX,enterprise.github.com
+  - DOMAIN-SUFFIX,extensions.githubusercontent.com
+  - DOMAIN-SUFFIX,live.github.com
+  - DOMAIN-SUFFIX,private.github.com
