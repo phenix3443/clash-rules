@@ -1,3 +1,4 @@
 pre-commit:
   jobs:
+    - run: scripts/githooks/pre-commit-lint-rules.sh
     - run: scripts/check-duplicate-rules.sh

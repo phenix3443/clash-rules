@@ -1,10 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,goodsrv.de
-  - DOMAIN-SUFFIX,ultrasrv.de
   - DOMAIN-SUFFIX,bestsrv.de
+  - DOMAIN-SUFFIX,goodsrv.de
+  - DOMAIN-SUFFIX,hetzner.cloud
+  - DOMAIN-SUFFIX,hetzner.com
+  - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,netcup.de
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
-  - DOMAIN-SUFFIX,hetzner.com
-  - DOMAIN-SUFFIX,hetzner.de
-  - DOMAIN-SUFFIX,hetzner.cloud
+  - DOMAIN-SUFFIX,ultrasrv.de
