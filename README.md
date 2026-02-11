@@ -11,9 +11,13 @@ Clash Rules 是一个开源的网络代理规则配置项目，专门为需要�
 ```bash
 clash-rules/
 ├── README.md          # 项目说明文档
-├── auto.yaml          # 自动分流规则配置文件（包含大量域名规则）
-├── select.yaml        # 选择性代理规则（GitHub、Discord、Telegram 等）
-├── openai.yaml        # AI 工具代理规则（ChatGPT、Cursor 等）
+├── Makefile           # 安装 lefthook、注册 git hooks
+├── lefthook.yml       # pre-commit 钩子配置
+├── rules/             # 规则 YAML 文件（auto、stable、openai 等）
+├── scripts/           # 脚本
+│   ├── check-duplicate-rules.sh   # 检查 rules 内重复规则
+│   └── ci/
+│       └── install-lefthook.sh   # 安装 lefthook
 └── cspell.json        # 拼写检查配置
 ```
 
@@ -99,6 +103,13 @@ rule-providers:
 - **实时更新**: 支持远程规则更新
 - **广泛覆盖**: 涵盖主流国际服务和开发工具
 - **易于维护**: 清晰的规则分类和结构
+
+## 🛠 开发与校验
+
+- **安装依赖与 hooks**：在仓库根目录执行 `make install`，会安装 [lefthook](https://github.com/evilmartians/lefthook) 并执行 `lefthook install` 注册 git hooks。
+- **Pre-commit**：由 lefthook 管理，提交前会自动执行 `scripts/check-duplicate-rules.sh`，检查 `rules/*.yaml` 内是否存在重复规则（同一文件内重复、同一规则出现在多个文件中）。若存在重复则阻止提交，需修复后再提交。
+- **仅安装 lefthook**：`make install-lefthook`
+- **仅注册 hooks**：`make hooks`（需已安装 lefthook）
 
 ## 🔄 更新和维护
 
