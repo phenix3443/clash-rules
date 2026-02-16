@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
   - DOMAIN-SUFFIX,ultrasrv.de
+  - PROCESS-NAME,tailscaled
