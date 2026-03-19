@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,aviewebnue.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,base.org
-  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bitget.fit
   - DOMAIN-SUFFIX,bitget.live
   - DOMAIN-SUFFIX,bj125.com
@@ -37,10 +36,8 @@ payload:
   - DOMAIN-SUFFIX,blocknative.com
   - DOMAIN-SUFFIX,blockpi.network
   - DOMAIN-SUFFIX,blockscout.com
-  - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
-  - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,chainnews.com
@@ -54,7 +51,6 @@ payload:
   - DOMAIN-SUFFIX,coinpaprika.com
   - DOMAIN-SUFFIX,cosmos.network
   - DOMAIN-SUFFIX,crypto.jobs
-  - DOMAIN-SUFFIX,cryptocompare.com
   - DOMAIN-SUFFIX,cryptomood.com
   - DOMAIN-SUFFIX,dapplearning.org
   - DOMAIN-SUFFIX,datawallet.com
@@ -174,6 +170,6 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
+  - PROCESS-NAME,TradingView
   - PROCESS-NAME,discord
   - PROCESS-NAME,telegram
-  - PROCESS-NAME,TradingView

@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,binance.us
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybitglobal.com
+  - DOMAIN-SUFFIX,bycsi.com
+  - DOMAIN-SUFFIX,coinbase-consumer.sjv.io
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,coinbase.net
+  - DOMAIN-SUFFIX,coinbasecdn.com
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,k-raken.com
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,krakenassets.com
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okg.com
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,saasexch.com
