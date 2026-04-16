@@ -8,4 +8,7 @@ payload:
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
   - DOMAIN-SUFFIX,ultrasrv.de
+  - PROCESS-NAME,TradingView
+  - PROCESS-NAME,discord
   - PROCESS-NAME,tailscaled
+  - PROCESS-NAME,telegram

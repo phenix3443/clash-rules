@@ -170,6 +170,3 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
-  - PROCESS-NAME,TradingView
-  - PROCESS-NAME,discord
-  - PROCESS-NAME,telegram
