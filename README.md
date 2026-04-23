@@ -48,6 +48,15 @@ clash-rules/
 - ChatGPT 应用
 - Cursor 编辑器
 
+### `crypto.yaml` - 加密服务代理
+
+针对交易所、行情和加密数据服务的代理规则：
+
+- Binance
+- Coinbase
+- CoinGecko
+- CoinMarketCap
+
 ## 📖 使用方法
 
 ### 1. 安装 Clash
@@ -71,6 +80,7 @@ clash-rules/
 ```yaml
 rules:
   - RULE-SET,auto,PROXY
+  - RULE-SET,crypto,PROXY
   - RULE-SET,select,PROXY
   - RULE-SET,openai,PROXY
   - MATCH,DIRECT
@@ -81,6 +91,12 @@ rule-providers:
     behavior: domain
     url: "https://raw.githubusercontent.com/phenix3443/clash-rules/main/auto.yaml"
     path: ./auto.yaml
+    interval: 3600
+  crypto:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/phenix3443/clash-rules/main/crypto.yaml"
+    path: ./crypto.yaml
     interval: 3600
   select:
     type: http
