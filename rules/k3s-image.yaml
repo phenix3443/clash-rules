@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,registry-1.docker.io
+  - DOMAIN-SUFFIX,auth.docker.io
+  - DOMAIN-SUFFIX,production.cloudflare.docker.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
+  - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,k8s.gcr.io
+  - DOMAIN-SUFFIX,registry.k8s.io
+  - DOMAIN-SUFFIX,public.ecr.aws
+  - DOMAIN-SUFFIX,mcr.microsoft.com
