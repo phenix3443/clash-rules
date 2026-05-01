@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,netcup.net
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,ultrasrv.de
+  - DOMAIN-SUFFIX,x.com
   - PROCESS-NAME,TradingView
   - PROCESS-NAME,discord
   - PROCESS-NAME,tailscaled
