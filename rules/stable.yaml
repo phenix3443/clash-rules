@@ -7,7 +7,10 @@ payload:
   - DOMAIN-SUFFIX,netcup.de
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
+  - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ultrasrv.de
   - DOMAIN-SUFFIX,x.com
   - PROCESS-NAME,TradingView
