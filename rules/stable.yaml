@@ -1,4 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,apipass.dev
+  - DOMAIN-SUFFIX,chatimage.ai
+  - DOMAIN-SUFFIX,midpoint.lol
+  - DOMAIN-SUFFIX,openpanel.dev
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,bestsrv.de
   - DOMAIN-SUFFIX,goodsrv.de
   - DOMAIN-SUFFIX,hetzner.cloud
