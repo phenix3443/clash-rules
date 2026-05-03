@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ankr.com
+  - DOMAIN-SUFFIX,apipass.dev
   - DOMAIN-SUFFIX,apphb.com
   - DOMAIN-SUFFIX,arbiscan.io
   - DOMAIN-SUFFIX,arbitrum.io
@@ -41,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,chainnews.com
+  - DOMAIN-SUFFIX,chatimage.ai
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,cloudflare-eth.com
@@ -117,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,onbeam.com
   - DOMAIN-SUFFIX,openfpcdn.io
+  - DOMAIN-SUFFIX,openpanel.dev
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,pancakeswap.finance
@@ -144,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,subwallet.app
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tagss.pro
@@ -165,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,weex.com
+  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,wtf.academy
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
