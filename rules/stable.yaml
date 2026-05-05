@@ -10,16 +10,22 @@ payload:
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
+  - DOMAIN-SUFFIX,mycloud.com
   - DOMAIN-SUFFIX,netcup.de
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
   - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,topazgigapixel.cn
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ultrasrv.de
+  - DOMAIN-SUFFIX,wdckeystone.com
+  - DOMAIN-SUFFIX,westerndigital.com
   - DOMAIN-SUFFIX,x.com
+  - PROCESS-NAME,Install WD Discovery
   - PROCESS-NAME,TradingView
+  - PROCESS-NAME,WD Discovery
   - PROCESS-NAME,discord
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,telegram
