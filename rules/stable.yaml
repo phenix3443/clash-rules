@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,bestsrv.de
+  - DOMAIN-SUFFIX,eagle.cool
   - DOMAIN-SUFFIX,goodsrv.de
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,hetzner.com
