@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,mycloud.com
+  - IP-CIDR,157.180.30.251/32,no-resolve
   - DOMAIN-SUFFIX,netcup.de
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
