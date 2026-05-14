@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.us
+  - DOMAIN-SUFFIX,bitrefill.com
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,bybitglobal.com
