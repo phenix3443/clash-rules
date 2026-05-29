@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,k-raken.com
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,krakenassets.com
