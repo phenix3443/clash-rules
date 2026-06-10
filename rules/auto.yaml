@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,aviewebnue.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,base.org
+  - DOMAIN-SUFFIX,bbww.us
   - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blastapi.io
@@ -36,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,bws.lol
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,chainnews.com
@@ -48,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,coinpaprika.com
   - DOMAIN-SUFFIX,cosmos.network
+  - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,crypto.jobs
   - DOMAIN-SUFFIX,cryptomood.com
   - DOMAIN-SUFFIX,dapplearning.org
