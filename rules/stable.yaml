@@ -1,32 +1,30 @@
 payload:
   - DOMAIN-SUFFIX,apipass.dev
-  - DOMAIN-SUFFIX,chatimage.ai
-  - DOMAIN-SUFFIX,midpoint.lol
-  - DOMAIN-SUFFIX,openpanel.dev
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,bestsrv.de
+  - DOMAIN-SUFFIX,chatimage.ai
   - DOMAIN-SUFFIX,eagle.cool
   - DOMAIN-SUFFIX,goodsrv.de
+  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
+  - DOMAIN-SUFFIX,midpoint.lol
   - DOMAIN-SUFFIX,mycloud.com
-  - IP-CIDR,157.180.30.251/32,no-resolve
   - DOMAIN-SUFFIX,netcup.de
   - DOMAIN-SUFFIX,netcup.eu
   - DOMAIN-SUFFIX,netcup.net
+  - DOMAIN-SUFFIX,openpanel.dev
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,topazgigapixel.cn
-  - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ultrasrv.de
   - DOMAIN-SUFFIX,wdckeystone.com
   - DOMAIN-SUFFIX,westerndigital.com
   - DOMAIN-SUFFIX,x.com
+  - IP-CIDR,157.180.30.251/32,no-resolve
   - PROCESS-NAME,Install WD Discovery
-  - PROCESS-NAME,TradingView
   - PROCESS-NAME,WD Discovery
   - PROCESS-NAME,discord
   - PROCESS-NAME,tailscaled
