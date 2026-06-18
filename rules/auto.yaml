@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,bws.lol
+  - DOMAIN-SUFFIX,byw.lol
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,chainnews.com
@@ -69,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,finet.hk
   - DOMAIN-SUFFIX,fluence.network
   - DOMAIN-SUFFIX,fly.dev
+  - DOMAIN-SUFFIX,formulae.brew.sh
   - DOMAIN-SUFFIX,galaxy.eco
   - DOMAIN-SUFFIX,galxe.com
   - DOMAIN-SUFFIX,gate.io
