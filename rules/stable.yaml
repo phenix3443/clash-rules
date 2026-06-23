@@ -9,9 +9,6 @@ payload:
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,midpoint.lol
   - DOMAIN-SUFFIX,mycloud.com
-  - DOMAIN-SUFFIX,netcup.de
-  - DOMAIN-SUFFIX,netcup.eu
-  - DOMAIN-SUFFIX,netcup.net
   - DOMAIN-SUFFIX,openpanel.dev
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,t.co
