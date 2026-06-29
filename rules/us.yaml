@@ -1,1 +1,3 @@
-payload: []
+payload:
+  - DOMAIN-SUFFIX,goodsrv.de
+  - DOMAIN-SUFFIX,ytimg.com
