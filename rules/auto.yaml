@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,alt-layer.dev
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ankr.com
+  - DOMAIN-SUFFIX,apipass.dev
   - DOMAIN-SUFFIX,apphb.com
   - DOMAIN-SUFFIX,arbiscan.io
   - DOMAIN-SUFFIX,arbitrum.io
@@ -28,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,base.org
   - DOMAIN-SUFFIX,bbww.us
+  - DOMAIN-SUFFIX,bestsrv.de
   - DOMAIN-SUFFIX,bj125.com
   - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blastapi.io
@@ -42,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,celer.network
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,chainnews.com
+  - DOMAIN-SUFFIX,chatimage.ai
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,cloudflare-eth.com
@@ -65,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,dextrabot.com
   - DOMAIN-SUFFIX,dexx.ai
   - DOMAIN-SUFFIX,dynamicauth.com
+  - DOMAIN-SUFFIX,eagle.cool
   - DOMAIN-SUFFIX,enjoy.tech
   - DOMAIN-SUFFIX,ethermail.io
   - DOMAIN-SUFFIX,finet.hk
@@ -80,6 +84,7 @@ payload:
   - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,golangci-lint.run
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,goreleaser.com
   - DOMAIN-SUFFIX,greenfieldscan.com
@@ -87,6 +92,9 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hasura.io
   - DOMAIN-SUFFIX,hercules.exchange
+  - DOMAIN-SUFFIX,hetzner.cloud
+  - DOMAIN-SUFFIX,hetzner.com
+  - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,htmlhint.com
   - DOMAIN-SUFFIX,humanode.io
   - DOMAIN-SUFFIX,hyperliquid-testnet.xyz
@@ -109,11 +117,13 @@ payload:
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,metamask.io
   - DOMAIN-SUFFIX,metis.io
+  - DOMAIN-SUFFIX,midpoint.lol
   - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,mintscan.io
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mitrade.com
   - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,mycloud.com
   - DOMAIN-SUFFIX,near.org
   - DOMAIN-SUFFIX,nexitallysafe.com
   - DOMAIN-SUFFIX,nobepay.com
@@ -121,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,nsatu.com
   - DOMAIN-SUFFIX,onbeam.com
   - DOMAIN-SUFFIX,openfpcdn.io
+  - DOMAIN-SUFFIX,openpanel.dev
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,pancakeswap.finance
@@ -149,14 +160,20 @@ payload:
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,subwallet.app
+  - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,taiko.xyz
   - DOMAIN-SUFFIX,tg.bet
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,tokeninsight.com
+  - DOMAIN-SUFFIX,topazgigapixel.cn
   - DOMAIN-SUFFIX,trunk.io
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,ultrasrv.de
   - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,v2board.com
   - DOMAIN-SUFFIX,vercel-insights.com
@@ -167,10 +184,16 @@ payload:
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,warp.dev
+  - DOMAIN-SUFFIX,wdckeystone.com
   - DOMAIN-SUFFIX,web3work.co
   - DOMAIN-SUFFIX,webassembly.org
   - DOMAIN-SUFFIX,weex.com
+  - DOMAIN-SUFFIX,westerndigital.com
   - DOMAIN-SUFFIX,wtf.academy
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
+  - PROCESS-NAME,discord
+  - PROCESS-NAME,tailscaled
+  - PROCESS-NAME,telegram

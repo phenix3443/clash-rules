@@ -13,7 +13,7 @@ clash-rules/
 ├── README.md          # 项目说明文档
 ├── Makefile           # 安装 lefthook、注册 git hooks
 ├── lefthook.yml       # pre-commit 钩子配置
-├── rules/             # 规则 YAML 文件（auto、stable、openai 等）
+├── rules/             # 规则 YAML 文件（auto、openai 等）
 ├── scripts/           # 脚本
 │   ├── check-duplicate-rules.sh   # 检查 rules 内重复规则
 │   └── ci/
