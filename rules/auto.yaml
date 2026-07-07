@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,ankr.com
   - DOMAIN-SUFFIX,apipass.dev
   - DOMAIN-SUFFIX,apphb.com
+  - DOMAIN-SUFFIX,appleid.cdn-apple.com
   - DOMAIN-SUFFIX,arbiscan.io
   - DOMAIN-SUFFIX,arbitrum.io
   - DOMAIN-SUFFIX,argent.xyz
@@ -63,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,dev-mintscan.com
+  - DOMAIN-SUFFIX,developer.apple.com
   - DOMAIN-SUFFIX,dexscreener.com
   - DOMAIN-SUFFIX,dextools.io
   - DOMAIN-SUFFIX,dextrabot.com
@@ -98,6 +100,9 @@ payload:
   - DOMAIN-SUFFIX,htmlhint.com
   - DOMAIN-SUFFIX,humanode.io
   - DOMAIN-SUFFIX,hyperliquid-testnet.xyz
+  - DOMAIN-SUFFIX,idms-apple.com.akadns.net
+  - DOMAIN-SUFFIX,idmsa.apple.com
+  - DOMAIN-SUFFIX,idmsa.apple.com.cn
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,immutable.com
   - DOMAIN-SUFFIX,jup.ag
