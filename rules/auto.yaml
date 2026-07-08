@@ -166,7 +166,6 @@ payload:
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,statsigapi.net
-  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,subwallet.app
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t66y.com
@@ -176,6 +175,7 @@ payload:
   - DOMAIN-SUFFIX,thumbsnap.com
   - DOMAIN-SUFFIX,tokeninsight.com
   - DOMAIN-SUFFIX,topazgigapixel.cn
+  - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,trunk.io
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitter.com
@@ -200,6 +200,7 @@ payload:
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,zecrey.com
   - DOMAIN-SUFFIX,zerion.io
+  - PROCESS-NAME,TradingView
   - PROCESS-NAME,discord
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,telegram
