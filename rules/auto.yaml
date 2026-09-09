@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,idms-apple.com.akadns.net
   - DOMAIN-SUFFIX,idmsa.apple.com
   - DOMAIN-SUFFIX,idmsa.apple.com.cn
+  - DOMAIN-SUFFIX,imgly.net
   - DOMAIN-SUFFIX,imgtures.com
   - DOMAIN-SUFFIX,immutable.com
   - DOMAIN-SUFFIX,jup.ag
