@@ -3,5 +3,6 @@ payload:
   - DOMAIN-SUFFIX,idea.edu.cn
   - DOMAIN-SUFFIX,jsjc.cfd
   - DOMAIN-SUFFIX,siamparagon.org
+  - DOMAIN-SUFFIX,ylsagi.com
   - PROCESS-NAME,MAXHUBShare
   - PROCESS-NAME,ScreenShareDeamon
