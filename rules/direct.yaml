@@ -1,4 +1,5 @@
 payload:
+  - "PROCESS-NAME-REGEX,^(AdsPower Global|SunBrowser)( Helper( \\(.+\\))?)?$"
   - DOMAIN-SUFFIX,bbwwvip.org
   - DOMAIN-SUFFIX,bwbwbw.cc
   - DOMAIN-SUFFIX,decodo.com
